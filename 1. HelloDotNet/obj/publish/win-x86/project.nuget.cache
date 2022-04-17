@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAn1pXKpLWydlixUyuAi7yOtLtY8PlKKlriR4YOQ2nx8DYYECcIL8Q5KotWv/NrfqBiYFLocCOqtRmnihYGzNA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\projects\\HelloDotNet\\HelloDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naege\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.16\\microsoft.netcore.app.runtime.win-x86.5.0.16.nupkg.sha512",
+    "C:\\Users\\Naege\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.16.nupkg.sha512",
+    "C:\\Users\\Naege\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.16\\microsoft.aspnetcore.app.runtime.win-x86.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

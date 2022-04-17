@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdasAndCollections", "LambdasAndCollections.csproj", "{74E96D1A-78C6-43CA-90B3-7AC1914AC873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E96D1A-78C6-43CA-90B3-7AC1914AC873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E96D1A-78C6-43CA-90B3-7AC1914AC873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E96D1A-78C6-43CA-90B3-7AC1914AC873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E96D1A-78C6-43CA-90B3-7AC1914AC873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {752B74AC-F18B-4BCE-A98B-E00B234A6B38}
+	EndGlobalSection
+EndGlobal

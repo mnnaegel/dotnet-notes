@@ -1,0 +1,3 @@
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\linux-x64\HelloDotNet.pdb
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\linux-x64\MathLibrary.pdb
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\linux-x64\HelloDotNet

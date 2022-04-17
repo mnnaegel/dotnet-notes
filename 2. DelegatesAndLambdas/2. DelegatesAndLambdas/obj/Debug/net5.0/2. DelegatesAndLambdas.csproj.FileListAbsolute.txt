@@ -1,0 +1,16 @@
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\bin\Debug\net5.0\2. DelegatesAndLambdas.exe
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\bin\Debug\net5.0\2. DelegatesAndLambdas.deps.json
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\bin\Debug\net5.0\2. DelegatesAndLambdas.runtimeconfig.json
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\bin\Debug\net5.0\2. DelegatesAndLambdas.runtimeconfig.dev.json
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\bin\Debug\net5.0\2. DelegatesAndLambdas.dll
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\bin\Debug\net5.0\2. DelegatesAndLambdas.pdb
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.AssemblyInfo.cs
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.dll
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\refint\2. DelegatesAndLambdas.dll
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.pdb
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\2. DelegatesAndLambdas.genruntimeconfig.cache
+D:\Visual Studio\projects\GermanCourse\2. DelegatesAndLambdas\2. DelegatesAndLambdas\obj\Debug\net5.0\ref\2. DelegatesAndLambdas.dll

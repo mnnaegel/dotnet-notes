@@ -1,0 +1,16 @@
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\bin\Debug\net5.0\LambdasAndCollections.exe
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\bin\Debug\net5.0\LambdasAndCollections.deps.json
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\bin\Debug\net5.0\LambdasAndCollections.runtimeconfig.json
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\bin\Debug\net5.0\LambdasAndCollections.runtimeconfig.dev.json
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\bin\Debug\net5.0\LambdasAndCollections.dll
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\bin\Debug\net5.0\LambdasAndCollections.pdb
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.AssemblyInfo.cs
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.dll
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\refint\LambdasAndCollections.dll
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.pdb
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\LambdasAndCollections.genruntimeconfig.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\LambdasAndCollections\obj\Debug\net5.0\ref\LambdasAndCollections.dll

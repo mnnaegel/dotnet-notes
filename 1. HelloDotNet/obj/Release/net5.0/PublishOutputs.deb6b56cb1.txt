@@ -1,0 +1,7 @@
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\HelloDotNet.exe
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\HelloDotNet.dll
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\HelloDotNet.deps.json
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\HelloDotNet.runtimeconfig.json
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\HelloDotNet.pdb
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\MathLibrary.dll
+D:\Visual Studio\projects\HelloDotNet\bin\Release\net5.0\publish\MathLibrary.pdb
