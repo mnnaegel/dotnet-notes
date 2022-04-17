@@ -20,8 +20,7 @@ IEnumerable<T> Filter<T>(IEnumerable<T> lst, Func<T, bool> f)
 }
 
 var result = Filter(heroes, hero => hero.LastName == String.Empty);
-var results = Filter(heroes, hero => hero.LastName == String.Empty);
-var HeroesWhoCanFly = string.Join(", ", results);
+var HeroesWhoCanFly = string.Join(", ", result);
 Console.WriteLine(HeroesWhoCanFly);
 
 delegate bool Predicate<T>(T item);
