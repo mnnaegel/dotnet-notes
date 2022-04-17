@@ -4,25 +4,25 @@ using System.Collections.Generic;
 var heroes = new List<Hero> {
         new("Wade", "Wilson", "Deadpool", false),
         new(string.Empty, string.Empty, "Homelander", true),
-        new("Bruce", "Wayne", "Batman", false)
+        new("Bruce", "", "Batman", false)
     };
 
-List<Hero> FilterHeroesWhoCanFly(List<Hero> heroes)
+
+IEnumerable<T> Filter<T>(IEnumerable<T> lst, Func<T, bool> f)
 {
-    var resultList = new List<Hero>();
-    for (int i = 0; i < heroes.Count; i++)
+    foreach (var item in lst)
     {
-        if (heroes[i].CanFly)
+        if (f(item) == true)
         {
-            resultList.Add(heroes[i]);
+            yield return item;
         }
     }
-
-    return resultList;
 }
 
-var result = FilterHeroesWhoCanFly(heroes);
-var HeroesWhoCanFly = string.Join(", ", result);
+var result = Filter(heroes, hero => hero.LastName == String.Empty);
+var results = Filter(heroes, hero => hero.LastName == String.Empty);
+var HeroesWhoCanFly = string.Join(", ", results);
 Console.WriteLine(HeroesWhoCanFly);
 
+delegate bool Predicate<T>(T item);
 record Hero(string FirstName, string LastName, string HeroName, bool CanFly);
