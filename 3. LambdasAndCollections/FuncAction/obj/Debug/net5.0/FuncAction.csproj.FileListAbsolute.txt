@@ -1,0 +1,16 @@
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\bin\Debug\net5.0\FuncAction.exe
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\bin\Debug\net5.0\FuncAction.deps.json
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\bin\Debug\net5.0\FuncAction.runtimeconfig.json
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\bin\Debug\net5.0\FuncAction.runtimeconfig.dev.json
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\bin\Debug\net5.0\FuncAction.dll
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\bin\Debug\net5.0\FuncAction.pdb
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.AssemblyInfo.cs
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.dll
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\refint\FuncAction.dll
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.pdb
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\FuncAction.genruntimeconfig.cache
+D:\Visual Studio\projects\GermanCourse\3. LambdasAndCollections\FuncAction\obj\Debug\net5.0\ref\FuncAction.dll
