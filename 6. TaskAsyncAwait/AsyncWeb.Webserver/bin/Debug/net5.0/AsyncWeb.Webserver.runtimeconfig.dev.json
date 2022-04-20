@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Naege\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Naege\\.nuget\\packages"
+    ]
+  }
+}
