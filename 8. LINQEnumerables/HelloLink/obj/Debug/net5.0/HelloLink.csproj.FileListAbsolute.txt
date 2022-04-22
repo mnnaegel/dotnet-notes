@@ -1,0 +1,16 @@
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\bin\Debug\net5.0\HelloLink.exe
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\bin\Debug\net5.0\HelloLink.deps.json
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\bin\Debug\net5.0\HelloLink.runtimeconfig.json
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\bin\Debug\net5.0\HelloLink.runtimeconfig.dev.json
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\bin\Debug\net5.0\HelloLink.dll
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\bin\Debug\net5.0\HelloLink.pdb
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.AssemblyInfo.cs
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.dll
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\refint\HelloLink.dll
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.pdb
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\HelloLink.genruntimeconfig.cache
+D:\Visual Studio\projects\GermanCourse\8. LINQEnumerables\HelloLink\obj\Debug\net5.0\ref\HelloLink.dll
